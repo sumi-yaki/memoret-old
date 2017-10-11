@@ -1,4 +1,6 @@
 # memoret-old
-Goで書かれたframeworkの一つEcho(旧版)を使ったmemoretK古いバージョン
+Goで書かれたframeworkの一つEcho(旧版)を使ったmemoretの古いバージョン。
 
-memoretは一人用の簡易Twitterのようなサーバーシステム
+memoretはGolangで書かれた一人用の簡易Twitterのようなサーバーシステム。
+SSLとBasic認証により非公開で使うものとして設計した。
+
